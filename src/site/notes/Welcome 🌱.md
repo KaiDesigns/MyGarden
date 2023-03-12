@@ -27,4 +27,4 @@
 
 ---
 
-[[Cards/更新日志\|更新日志]] |  [[Cards/花园导视\|花园导视]] | [[Spaces/Publish Test/Markdown Style\|Markdown Style]]
+[[Cards/更新日志\|更新日志]] |  [[Cards/花园导视\|花园导视]] | [[Spaces/Publish Test/Markdown Style\|Markdown Style]]｜
