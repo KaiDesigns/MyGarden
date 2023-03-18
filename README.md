@@ -1,9 +1,5 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# KaiGarden
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+这里是我个人的数字花园，很高兴你能寻觅到这里来，不过你会发现这里杂草丛生，如果你愿意探索的话可能会发现一些有趣的东西。
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+这里的内容是我思考的环境，沉浸在这样一片属于自己的园子里，能够激发想象力。闲来无事就来修修剪剪或增添一些新的物种，所以这里一切都是正在生长的，不完整的，有趣的，试验性的，个性化的……
